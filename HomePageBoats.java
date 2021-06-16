@@ -7,7 +7,7 @@ import org.testng.annotations.Test;
 
 public class HomePageBoats extends Base {
 
-	final static Logger logger = Logger.getLogger(HomePageBoats.class);
+	final static Logger logger = Logger.getLogger(HomePageBoats.class); 
 
 	@Test(enabled = true)
 	public void gotoHomePageBoats() {
